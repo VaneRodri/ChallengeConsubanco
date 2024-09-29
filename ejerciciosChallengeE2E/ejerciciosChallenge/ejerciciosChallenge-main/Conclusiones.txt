@@ -1,0 +1,18 @@
+La automatización de pruebas  con Serenity BDD demuestra ser más eficiente en comparación con las pruebas manuales.
+La capacidad de ejecutar pruebas de forma rápida y repetitiva permite identificar rápidamente problemas potenciales
+en el sistema.
+La automatización de pruebas ayuda a ahorrar tiempo y recursos al eliminar la  necesidad de realizar pruebas manuales
+repetitivas. Esto permite que el equipo de QA se enfoque en tareas más críticas y complejas.
+
+La automatización permite una mayor cobertura de pruebas al ejecutar casos de prueba en diferentes
+configuraciones de dispositivos y navegadores de manera simultánea. Esto ayuda a identificar problemas de
+compatibilidad de manera más efectiva.
+
+Al automatizar las pruebas, se garantiza una mayor consistencia en la ejecución de las mismas, lo que conduce a 
+una mejora en la calidad del software al reducir la probabilidad de errores humanos.
+
+Serenity BDD proporciona una estructura clara y organizada para escribir y mantener pruebas automatizadas, 
+lo que facilita la colaboración entre miembros del equipo y la escalabilidad del proyecto a medida que crece.
+
+La automatización permite obtener retroalimentación rápida sobre la estabilidad y calidad del software,
+lo que permite tomar decisiones informadas sobre los próximos pasos del desarrollo.
